@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is conflict file1
+=======
+this is conflict file
+>>>>>>> origin/dev2
